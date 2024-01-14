@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhaksha Muthukumaran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" src="https://leetcode.card.workers.dev/?username=Dhaksha M&theme=dark" alt="LeetCode Stats"/>
+<img align="center" src="https://leetcode.card.workers.dev/?username=dhaksha890&theme=dark" alt="LeetCode Stats"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/dhaksha m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhaksha m" height="30" width="40" /></a>
